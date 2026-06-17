@@ -9,7 +9,6 @@ I'm a student currently learning **AI and Data Science**, with a strong pull tow
 - 🔭 Currently exploring: LLMs, RAG pipelines, and Deep Learning architectures
 - 🌱 Always learning: new techniques and tools across the AI/ML space
 - 💬 Ask me about: Machine Learning, Deep Learning, Data Science projects
-- 📫 Reach me at: *add your email here*
 
 ---
 
@@ -21,7 +20,7 @@ A machine learning model that predicts Formula 1 race winners using historical r
 
 **₿ BTC Price Prediction**
 A predictive model that forecasts Bitcoin price movement using historical price data and time-series techniques.
-🔗 *add your repo link here*
+🔗 [View Project](https://github.com/Parthshewale18/BTC)
 
 ---
 
@@ -47,5 +46,5 @@ A predictive model that forecasts Bitcoin price movement using historical price 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://www.linkedin.com/in/parth-shewale-60538b371/)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)

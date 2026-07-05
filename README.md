@@ -40,8 +40,9 @@ A predictive model that forecasts Bitcoin price movement using historical price 
 
 ### 📊 GitHub Stats
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthshewale18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthshewale18&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthshewale18&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthshewale18&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

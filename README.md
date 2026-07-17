@@ -49,4 +49,4 @@ A predictive model that forecasts Bitcoin price movement using historical price 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-shewale-60538b371/)
 
 
-![Snake Animation](https://raw.githubusercontent.com/Parthshewale18/Parthshewale18/output/ocean.gif)
+![GitHub Snake](https://raw.githubusercontent.com/Parthshewale18/Parthshewale18/output/github-snake.svg)

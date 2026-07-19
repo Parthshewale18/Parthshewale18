@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Parth Shewale 👋</h1>
+<h1 align="center">Hi there, I'm Parth Shewale </h1>
 <h3 align="center">AI & Data Science Student | ML | Deep Learning | LLMs & RAG</h3>
 
 ---

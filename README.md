@@ -3,6 +3,7 @@
 
 ---
 
+
 ### 🚀 About Me
 I'm a student currently learning **AI and Data Science**, with a strong pull toward **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Deep Learning**. I enjoy taking raw data and turning it into predictions that actually mean something — whether that's market trends or race outcomes.
 
